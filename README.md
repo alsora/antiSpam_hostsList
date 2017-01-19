@@ -9,7 +9,7 @@ You have to create your own configuration. There are two ways.
 
 Under Linux open as administrator */etc/hosts* and paste and copy the content of the list.
 
-**2) Modify this hosts file adding the following two lines: **
+**2) Modify this hosts file adding the following two lines:**
 
 127.0.0.1       localhost
 127.0.1.1       <your computer name>
